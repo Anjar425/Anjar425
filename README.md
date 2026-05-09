@@ -1,6 +1,6 @@
 # Hi there, I'm Eko Ginanjar Basuki Rahmat 
 
-Informatics Graduate of Sebelas Maret University artificial intelligence and machine learning.
+Informatics Graduate of Sebelas Maret University highly interest in artificial intelligence and machine learning.
 
 ## Tech Stacks
 
