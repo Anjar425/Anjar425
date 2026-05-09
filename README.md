@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Eko Ginanjar Basuki Rahmat 
 
-<!--
-**Anjar425/Anjar425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Graduate of Sebelas Maret University artificial intelligence and machine learning.
 
-Here are some ideas to get you started:
+## Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://custom-icon-badges.demolab.com/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Reach Me
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/ekoginanjar/)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:ekoginanjar4@gmail.com)
